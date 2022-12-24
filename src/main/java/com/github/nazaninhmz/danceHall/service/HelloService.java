@@ -12,7 +12,7 @@ public class HelloService {
 
     public String sayHello(int id) {
         final User user = userService.getUser(id);
-        return "Salam " + user.getName() + ", Khosh oomadi!";
+        return "Salam " + user.getFirstName() + ", Khosh oomadi!";
     }
 
 }
