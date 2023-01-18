@@ -1,0 +1,1 @@
+INSERT IGNORE INTO `user` ( `id` , `bio`, `username`, `first_name` , `last_name` , `email` ,`dance_type` , `password`) VALUES (0,"only god can judje me ", "nazaninhmzzz" , "nazanin","hamze", "ncdhfbvugbvgu","JAZZ","1234")
